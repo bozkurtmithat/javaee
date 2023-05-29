@@ -1,5 +1,5 @@
 # The Project Aim
-This project is for experiments and exercises on java ee platform using open liberty. Especially it test the working of multi-module projects. This project uses mavan for build tool and Multi module projects structure as following
+This project is for experiments and exercises on java ee platform using open liberty. Especially it tests multi-module projects. This project uses maven for build-tool and Multi-module project structure is as following
 
 EAR
 +-- META-INF
