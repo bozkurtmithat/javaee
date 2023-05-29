@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Class-Path: myejb-1.0.0.jar myutil-1.0.0.jar
+Created-By: Maven Integration for Eclipse
+
