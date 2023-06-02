@@ -3,19 +3,19 @@ This project is for experiments and exercises on java ee platform using open lib
 
 EAR
 
-+-- META-INF
++ META-INF
 
-  +--- MANIFEST.MF
+---+ MANIFEST.MF
   
-  +--- application.xml
+---+ application.xml
 
-+-- lib/
++ lib/
 
-  +--- XYZ-util.jar
+---+ XYZ-util.jar
 
-+-- XYZ-EJB.jar
++ XYZ-EJB.jar
 
-+-- XYZ-Web.war
++ XYZ-Web.war
 
 Maven packaging generates ear and war at "skinny war" enabled mode.
 
