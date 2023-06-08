@@ -9,7 +9,6 @@ my-parent
 --> myejb 
 --> myutil
 --> myweb
---> myutil.jar
 --> pom.xml
 ```
 If you run "maven install" under the "my-parent" folder It creates EAR file as following structure 
